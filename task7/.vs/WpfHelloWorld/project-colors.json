@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "13724075-3794-42db-8b91-111e7511b9a6": {
+      "ProjectGuid": "13724075-3794-42db-8b91-111e7511b9a6",
+      "DisplayName": "WpfHelloWorld",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,15 @@
+D:\Projects.C#\task11\InkPad\InkPad\obj\Debug\InkPad.csproj.SuggestedBindingRedirects.cache
+D:\Projects.C#\task11\InkPad\InkPad\obj\Debug\MainWindow.g.cs
+D:\Projects.C#\task11\InkPad\InkPad\obj\Debug\App.g.cs
+D:\Projects.C#\task11\InkPad\InkPad\obj\Debug\InkPad_MarkupCompile.cache
+D:\Projects.C#\task11\InkPad\InkPad\obj\Debug\InkPad_MarkupCompile.lref
+D:\Projects.C#\task11\InkPad\InkPad\bin\Debug\InkPad.exe.config
+D:\Projects.C#\task11\InkPad\InkPad\bin\Debug\InkPad.exe
+D:\Projects.C#\task11\InkPad\InkPad\bin\Debug\InkPad.pdb
+D:\Projects.C#\task11\InkPad\InkPad\obj\Debug\MainWindow.baml
+D:\Projects.C#\task11\InkPad\InkPad\obj\Debug\InkPad.g.resources
+D:\Projects.C#\task11\InkPad\InkPad\obj\Debug\InkPad.Properties.Resources.resources
+D:\Projects.C#\task11\InkPad\InkPad\obj\Debug\InkPad.csproj.GenerateResource.cache
+D:\Projects.C#\task11\InkPad\InkPad\obj\Debug\InkPad.csproj.CoreCompileInputs.cache
+D:\Projects.C#\task11\InkPad\InkPad\obj\Debug\InkPad.exe
+D:\Projects.C#\task11\InkPad\InkPad\obj\Debug\InkPad.pdb

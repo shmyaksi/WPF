@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d659c777-9aa6-4cdb-92c3-1732bd4a65e4": {
+      "ProjectGuid": "d659c777-9aa6-4cdb-92c3-1732bd4a65e4",
+      "DisplayName": "InkPad",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

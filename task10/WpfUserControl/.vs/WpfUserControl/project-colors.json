@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "81a40d2a-0252-4d47-a7f9-5c6d14f77fe2": {
+      "ProjectGuid": "81a40d2a-0252-4d47-a7f9-5c6d14f77fe2",
+      "DisplayName": "WpfUserControl",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

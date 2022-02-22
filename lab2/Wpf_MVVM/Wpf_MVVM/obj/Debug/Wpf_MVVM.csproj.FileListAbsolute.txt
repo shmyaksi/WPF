@@ -1,0 +1,16 @@
+D:\Projects.C#\lab2\Wpf_MVVM\Wpf_MVVM\bin\Debug\Wpf_MVVM.exe.config
+D:\Projects.C#\lab2\Wpf_MVVM\Wpf_MVVM\bin\Debug\Wpf_MVVM.exe
+D:\Projects.C#\lab2\Wpf_MVVM\Wpf_MVVM\bin\Debug\Wpf_MVVM.pdb
+D:\Projects.C#\lab2\Wpf_MVVM\Wpf_MVVM\obj\Debug\Wpf_MVVM.csproj.SuggestedBindingRedirects.cache
+D:\Projects.C#\lab2\Wpf_MVVM\Wpf_MVVM\obj\Debug\View\MainWindow.g.cs
+D:\Projects.C#\lab2\Wpf_MVVM\Wpf_MVVM\obj\Debug\App.g.cs
+D:\Projects.C#\lab2\Wpf_MVVM\Wpf_MVVM\obj\Debug\Wpf_MVVM_MarkupCompile.cache
+D:\Projects.C#\lab2\Wpf_MVVM\Wpf_MVVM\obj\Debug\Wpf_MVVM_MarkupCompile.lref
+D:\Projects.C#\lab2\Wpf_MVVM\Wpf_MVVM\obj\Debug\View\MainWindow.baml
+D:\Projects.C#\lab2\Wpf_MVVM\Wpf_MVVM\obj\Debug\Wpf_MVVM.g.resources
+D:\Projects.C#\lab2\Wpf_MVVM\Wpf_MVVM\obj\Debug\Wpf_MVVM.Properties.Resources.resources
+D:\Projects.C#\lab2\Wpf_MVVM\Wpf_MVVM\obj\Debug\Wpf_MVVM.csproj.GenerateResource.cache
+D:\Projects.C#\lab2\Wpf_MVVM\Wpf_MVVM\obj\Debug\Wpf_MVVM.csproj.CoreCompileInputs.cache
+D:\Projects.C#\lab2\Wpf_MVVM\Wpf_MVVM\obj\Debug\Wpf_MVVM.exe
+D:\Projects.C#\lab2\Wpf_MVVM\Wpf_MVVM\obj\Debug\Wpf_MVVM.pdb
+D:\Projects.C#\lab2\Wpf_MVVM\Wpf_MVVM\obj\Debug\Wpf_MVVM.csproj.AssemblyReference.cache

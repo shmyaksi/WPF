@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f1855c01-3f50-41b6-a70f-00018b515654": {
+      "ProjectGuid": "f1855c01-3f50-41b6-a70f-00018b515654",
+      "DisplayName": "WpfHelloNav",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

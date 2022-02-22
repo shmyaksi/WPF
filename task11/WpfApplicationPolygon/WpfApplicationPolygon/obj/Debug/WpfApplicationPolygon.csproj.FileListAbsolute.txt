@@ -1,0 +1,15 @@
+D:\Projects.C#\task11\WpfApplicationPolygon\WpfApplicationPolygon\bin\Debug\WpfApplicationPolygon.exe.config
+D:\Projects.C#\task11\WpfApplicationPolygon\WpfApplicationPolygon\bin\Debug\WpfApplicationPolygon.exe
+D:\Projects.C#\task11\WpfApplicationPolygon\WpfApplicationPolygon\bin\Debug\WpfApplicationPolygon.pdb
+D:\Projects.C#\task11\WpfApplicationPolygon\WpfApplicationPolygon\obj\Debug\WpfApplicationPolygon.csproj.SuggestedBindingRedirects.cache
+D:\Projects.C#\task11\WpfApplicationPolygon\WpfApplicationPolygon\obj\Debug\MainWindow.g.cs
+D:\Projects.C#\task11\WpfApplicationPolygon\WpfApplicationPolygon\obj\Debug\App.g.cs
+D:\Projects.C#\task11\WpfApplicationPolygon\WpfApplicationPolygon\obj\Debug\WpfApplicationPolygon_MarkupCompile.cache
+D:\Projects.C#\task11\WpfApplicationPolygon\WpfApplicationPolygon\obj\Debug\WpfApplicationPolygon_MarkupCompile.lref
+D:\Projects.C#\task11\WpfApplicationPolygon\WpfApplicationPolygon\obj\Debug\MainWindow.baml
+D:\Projects.C#\task11\WpfApplicationPolygon\WpfApplicationPolygon\obj\Debug\WpfApplicationPolygon.g.resources
+D:\Projects.C#\task11\WpfApplicationPolygon\WpfApplicationPolygon\obj\Debug\WpfApplicationPolygon.Properties.Resources.resources
+D:\Projects.C#\task11\WpfApplicationPolygon\WpfApplicationPolygon\obj\Debug\WpfApplicationPolygon.csproj.GenerateResource.cache
+D:\Projects.C#\task11\WpfApplicationPolygon\WpfApplicationPolygon\obj\Debug\WpfApplicationPolygon.csproj.CoreCompileInputs.cache
+D:\Projects.C#\task11\WpfApplicationPolygon\WpfApplicationPolygon\obj\Debug\WpfApplicationPolygon.exe
+D:\Projects.C#\task11\WpfApplicationPolygon\WpfApplicationPolygon\obj\Debug\WpfApplicationPolygon.pdb

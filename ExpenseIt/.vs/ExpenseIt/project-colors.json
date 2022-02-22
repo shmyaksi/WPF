@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bb37b4f5-e623-4a4b-9189-09656c378a06": {
+      "ProjectGuid": "bb37b4f5-e623-4a4b-9189-09656c378a06",
+      "DisplayName": "ExpenseIt",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

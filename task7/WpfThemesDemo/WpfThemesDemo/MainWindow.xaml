@@ -1,0 +1,28 @@
+﻿<Window x:Class="WpfThemesDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="300" Width="300">
+    
+    <StackPanel>
+        <ComboBox x:Name="styleBox" />
+        <Button Content="Hello WPF"  />
+        <TextBlock Text="Windows Presentation Foundation"  />
+        <RadioButton Content="RadioButton"/>
+        <Slider/>
+        <CheckBox Content="CheckBox"/>
+        <ListBox Height="100">
+            <ListBoxItem Content="ПЕрвый"/>
+            <ListBoxItem Content="Третий"/>
+            <ListBoxItem Content="Второй"/>
+        </ListBox>
+        <Expander Header="Expander" Height="81" RenderTransformOrigin="0.503,0.617">
+            <Grid Background="#FFE5E5E5">
+                <Button Height="20" Width="40" />
+                
+            </Grid>
+ 
+        </Expander>
+
+    </StackPanel>
+
+</Window>

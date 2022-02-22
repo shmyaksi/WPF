@@ -1,0 +1,16 @@
+D:\Projects.C#\task12\Param\Param\bin\Debug\Param.exe.config
+D:\Projects.C#\task12\Param\Param\bin\Debug\Param.exe
+D:\Projects.C#\task12\Param\Param\bin\Debug\Param.pdb
+D:\Projects.C#\task12\Param\Param\obj\Debug\Param.csproj.AssemblyReference.cache
+D:\Projects.C#\task12\Param\Param\obj\Debug\Param.csproj.SuggestedBindingRedirects.cache
+D:\Projects.C#\task12\Param\Param\obj\Debug\MainWindow.g.cs
+D:\Projects.C#\task12\Param\Param\obj\Debug\App.g.cs
+D:\Projects.C#\task12\Param\Param\obj\Debug\Param_MarkupCompile.cache
+D:\Projects.C#\task12\Param\Param\obj\Debug\Param_MarkupCompile.lref
+D:\Projects.C#\task12\Param\Param\obj\Debug\MainWindow.baml
+D:\Projects.C#\task12\Param\Param\obj\Debug\Param.g.resources
+D:\Projects.C#\task12\Param\Param\obj\Debug\Param.Properties.Resources.resources
+D:\Projects.C#\task12\Param\Param\obj\Debug\Param.csproj.GenerateResource.cache
+D:\Projects.C#\task12\Param\Param\obj\Debug\Param.csproj.CoreCompileInputs.cache
+D:\Projects.C#\task12\Param\Param\obj\Debug\Param.exe
+D:\Projects.C#\task12\Param\Param\obj\Debug\Param.pdb

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "318584bf-283a-428d-819b-9d7837d6aab1": {
+      "ProjectGuid": "318584bf-283a-428d-819b-9d7837d6aab1",
+      "DisplayName": "WpfApplicationChart",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

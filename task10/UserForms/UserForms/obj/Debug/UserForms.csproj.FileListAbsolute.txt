@@ -1,0 +1,15 @@
+D:\Projects.C#\task10\UserForms\UserForms\obj\Debug\UserForms.csproj.SuggestedBindingRedirects.cache
+D:\Projects.C#\task10\UserForms\UserForms\obj\Debug\App.g.cs
+D:\Projects.C#\task10\UserForms\UserForms\obj\Debug\UserForms_MarkupCompile.cache
+D:\Projects.C#\task10\UserForms\UserForms\obj\Debug\MainWindow.g.cs
+D:\Projects.C#\task10\UserForms\UserForms\obj\Debug\UserForms_MarkupCompile.lref
+D:\Projects.C#\task10\UserForms\UserForms\bin\Debug\UserForms.exe.config
+D:\Projects.C#\task10\UserForms\UserForms\bin\Debug\UserForms.exe
+D:\Projects.C#\task10\UserForms\UserForms\bin\Debug\UserForms.pdb
+D:\Projects.C#\task10\UserForms\UserForms\obj\Debug\MainWindow.baml
+D:\Projects.C#\task10\UserForms\UserForms\obj\Debug\UserForms.g.resources
+D:\Projects.C#\task10\UserForms\UserForms\obj\Debug\UserForms.Properties.Resources.resources
+D:\Projects.C#\task10\UserForms\UserForms\obj\Debug\UserForms.csproj.GenerateResource.cache
+D:\Projects.C#\task10\UserForms\UserForms\obj\Debug\UserForms.csproj.CoreCompileInputs.cache
+D:\Projects.C#\task10\UserForms\UserForms\obj\Debug\UserForms.exe
+D:\Projects.C#\task10\UserForms\UserForms\obj\Debug\UserForms.pdb

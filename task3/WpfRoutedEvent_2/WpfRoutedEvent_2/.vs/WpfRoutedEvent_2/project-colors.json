@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a366c22d-c564-41a4-b455-0fecee586c83": {
+      "ProjectGuid": "a366c22d-c564-41a4-b455-0fecee586c83",
+      "DisplayName": "WpfRoutedEvent_2",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

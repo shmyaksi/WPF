@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6fb02d9a-503a-4de4-b7c9-2ef2bf93f303": {
+      "ProjectGuid": "6fb02d9a-503a-4de4-b7c9-2ef2bf93f303",
+      "DisplayName": "Wpf_MVVM",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

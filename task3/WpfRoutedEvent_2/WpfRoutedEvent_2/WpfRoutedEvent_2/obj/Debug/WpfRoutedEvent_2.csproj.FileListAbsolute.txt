@@ -1,0 +1,16 @@
+D:\Projects.C#\task3\WpfRoutedEvent_2\WpfRoutedEvent_2\WpfRoutedEvent_2\bin\Debug\WpfRoutedEvent_2.exe.config
+D:\Projects.C#\task3\WpfRoutedEvent_2\WpfRoutedEvent_2\WpfRoutedEvent_2\bin\Debug\WpfRoutedEvent_2.exe
+D:\Projects.C#\task3\WpfRoutedEvent_2\WpfRoutedEvent_2\WpfRoutedEvent_2\bin\Debug\WpfRoutedEvent_2.pdb
+D:\Projects.C#\task3\WpfRoutedEvent_2\WpfRoutedEvent_2\WpfRoutedEvent_2\obj\Debug\WpfRoutedEvent_2.csproj.AssemblyReference.cache
+D:\Projects.C#\task3\WpfRoutedEvent_2\WpfRoutedEvent_2\WpfRoutedEvent_2\obj\Debug\WpfRoutedEvent_2.csproj.SuggestedBindingRedirects.cache
+D:\Projects.C#\task3\WpfRoutedEvent_2\WpfRoutedEvent_2\WpfRoutedEvent_2\obj\Debug\MainWindow.g.cs
+D:\Projects.C#\task3\WpfRoutedEvent_2\WpfRoutedEvent_2\WpfRoutedEvent_2\obj\Debug\App.g.cs
+D:\Projects.C#\task3\WpfRoutedEvent_2\WpfRoutedEvent_2\WpfRoutedEvent_2\obj\Debug\WpfRoutedEvent_2_MarkupCompile.cache
+D:\Projects.C#\task3\WpfRoutedEvent_2\WpfRoutedEvent_2\WpfRoutedEvent_2\obj\Debug\WpfRoutedEvent_2_MarkupCompile.lref
+D:\Projects.C#\task3\WpfRoutedEvent_2\WpfRoutedEvent_2\WpfRoutedEvent_2\obj\Debug\MainWindow.baml
+D:\Projects.C#\task3\WpfRoutedEvent_2\WpfRoutedEvent_2\WpfRoutedEvent_2\obj\Debug\WpfRoutedEvent_2.g.resources
+D:\Projects.C#\task3\WpfRoutedEvent_2\WpfRoutedEvent_2\WpfRoutedEvent_2\obj\Debug\WpfRoutedEvent_2.Properties.Resources.resources
+D:\Projects.C#\task3\WpfRoutedEvent_2\WpfRoutedEvent_2\WpfRoutedEvent_2\obj\Debug\WpfRoutedEvent_2.csproj.GenerateResource.cache
+D:\Projects.C#\task3\WpfRoutedEvent_2\WpfRoutedEvent_2\WpfRoutedEvent_2\obj\Debug\WpfRoutedEvent_2.csproj.CoreCompileInputs.cache
+D:\Projects.C#\task3\WpfRoutedEvent_2\WpfRoutedEvent_2\WpfRoutedEvent_2\obj\Debug\WpfRoutedEvent_2.exe
+D:\Projects.C#\task3\WpfRoutedEvent_2\WpfRoutedEvent_2\WpfRoutedEvent_2\obj\Debug\WpfRoutedEvent_2.pdb
